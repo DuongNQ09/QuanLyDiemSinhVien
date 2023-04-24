@@ -2,7 +2,7 @@
 - Gíao viên hướng dẫn: Trần Đăng Hoan
 - Sinh viên thực hiện : 
 
-+	Nguyễn Minh Đức 
-+	Trần Mạnh Cường
-+	Vũ Thành Đạt
-+	Ngô Quang Dương
+-	Nguyễn Minh Đức 
+-	Trần Mạnh Cường
+-	Vũ Thành Đạt
+-	Ngô Quang Dương
