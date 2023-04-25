@@ -8,7 +8,6 @@ public class Lop {
 
 	public Lop() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Lop(String maLop, String tenLop, int maGiaoVien, String maKhoa) {

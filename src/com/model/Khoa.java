@@ -7,7 +7,6 @@ public class Khoa {
 
 	public Khoa() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Khoa(String maKhoa, String tenKhoa) {

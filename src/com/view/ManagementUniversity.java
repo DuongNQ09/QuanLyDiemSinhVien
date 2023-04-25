@@ -6,7 +6,6 @@ import java.util.Scanner;
 import com.model.GiaoVien;
 import com.service.GiaoVienService;
 
-// Menu tổng 
 public class ManagementUniversity {
 
 	public static void main(String[] args) {
@@ -46,7 +45,6 @@ public class ManagementUniversity {
 							System.out.println(" Sai tài khoản hoặc mật khẩu. Vui lòng chạy lại hệ thống... ");
 						}
 					} catch (Exception e) {
-						// TODO Auto-generated catch block
 						e.printStackTrace();
 					}
 				}
