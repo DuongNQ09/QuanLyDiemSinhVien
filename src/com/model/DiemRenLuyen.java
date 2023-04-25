@@ -9,7 +9,6 @@ public class DiemRenLuyen {
 
 	public DiemRenLuyen() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public DiemRenLuyen(int maDiemRenLuyen, float diemRenLuyen, int hocKi, int maSinhVien) {
